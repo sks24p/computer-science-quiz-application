@@ -39,7 +39,3 @@ npm start
 * Quizzes work as 'rounds', with rounds differing in number of questions and general difficulty of questions.
 ## Technologies used
 * Python.
-## Author info
-* **Email:** [sahil.a.khan@outlook.com](sahil.a.khan@outlook.com)
-* **LinkedIn:** [https://www.linkedin.com/in/sahil-ahmed-khan-bb9b54332/](https://www.linkedin.com/in/sahil-ahmed-khan-bb9b54332/)
-* **GitHub:** [https://github.com/SAK-Dev21](https://github.com/SAK-Dev21)
