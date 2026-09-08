@@ -13,23 +13,6 @@ Here are some images detailing UML Class diagrams for this project:
 ![#1](https://github.com/user-attachments/assets/a9e6ddec-45cd-46fa-ab0c-dc8685329959)
 ![#2](https://github.com/user-attachments/assets/eafdc672-1428-4a5d-a75e-3d0d7309b8d3)
 
-## How to install and use
-1: Clone this repository using SSH:
-```
-git clone git@github.com:SAK-Dev21/computer-science-quiz-application.git
-```    
-2: Navigate to the project folder:
-```
-cd project-name
-```
-3: Install dependencies:
-```
-npm install
-```
-4: Start the application:
-```
-npm start
-```
 ## Key Features
 * A username and password feature, with the added bonus of being able to randomly generate a password.
 * A section explaining what the app is about.
